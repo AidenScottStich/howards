@@ -8,7 +8,7 @@ body{
 }
 
 nav{
-    background-image: url(backgroundpic.jpg);
+    background-image: url(images/backgroundpic.jpg);
     background-repeat: no-repeat;
     background-position: top;
     background-size: cover;
@@ -18,7 +18,7 @@ nav{
 }
 
 nav div{
-    background-image: url(Logo.png);
+    background-image: url(images/Logo.png);
     background-repeat: no-repeat;
     background-position: center;
     background-size: 200px 300px;
